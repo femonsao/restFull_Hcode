@@ -1,0 +1,27 @@
+{
+  "name": "restfull_hcode",
+  "version": "1.0.0",
+  "description": "Aula hcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femonsao/restFull_Hcode.git"
+  },
+  "keywords": [
+    "Hcode",
+    "Aula",
+    "Hcode"
+  ],
+  "author": "Felipe Monsao de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/femonsao/restFull_Hcode/issues"
+  },
+  "homepage": "https://github.com/femonsao/restFull_Hcode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
